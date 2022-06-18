@@ -1,6 +1,6 @@
 const num1 = parseInt( prompt('Enter No1: '));
 const num2 = parseInt( prompt('Enter No2: '));
-const operator = parseInt( prompt('Enter operator(+, -, *, /)'));
+const operator =  prompt('Enter operator(+, -, *, /)');
 
 let result;
 
